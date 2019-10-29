@@ -5,4 +5,4 @@ Podfile has enabled pods
 
 nodejs-jwt-authentication-sample for user authentication
 
-This is an IOS, project with dependacies specific to IOS
+This is an IOS project with dependacies specific to IOS

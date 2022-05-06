@@ -1,5 +1,8 @@
-# CoffeeNuts
-App.js has React Native code, and the affiliate images are called by App.js
+# Lean Mean Meals LLC 
+
+App.js has React Native code 
+
+Affiliate images are called by App.js
 
 Podfile has enabled pods 
 
